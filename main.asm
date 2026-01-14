@@ -1,3 +1,5 @@
+# Comments/Strings only in Spanish
+# 
 # Ramiro Berbetoros
 # Programa de creacion de Categorias y Objetos doblemente enlazados:
 #
